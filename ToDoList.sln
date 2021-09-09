@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList_API", "ToDoList_API\ToDoList_API.csproj", "{B6286839-9AD8-4B1F-A5F0-2AF25DA0B621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListApp", "ToDoList\ToDoListApp.csproj", "{FADC2E41-D412-497E-91C9-489B45DD5385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6286839-9AD8-4B1F-A5F0-2AF25DA0B621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6286839-9AD8-4B1F-A5F0-2AF25DA0B621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6286839-9AD8-4B1F-A5F0-2AF25DA0B621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6286839-9AD8-4B1F-A5F0-2AF25DA0B621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADC2E41-D412-497E-91C9-489B45DD5385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADC2E41-D412-497E-91C9-489B45DD5385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADC2E41-D412-497E-91C9-489B45DD5385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADC2E41-D412-497E-91C9-489B45DD5385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3BA2A2E-19DB-4254-89A7-0A12E25F5F9C}
+	EndGlobalSection
+EndGlobal
